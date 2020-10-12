@@ -5,4 +5,8 @@
     <string name="Button">Je suis un bouton!</string>
     <string name="Login">S\'identifier</string>
     <string name="Password">Mot de passe</string>
+    <string name="dialog_message">Choisissez une option pour terminer</string>
+    <string name="dialog_title">Alert</string>
+    <string name="ok">Retour à l\'activité principale</string>
+    <string name="cancel">Annuler</string>
 </resources>
