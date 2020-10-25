@@ -9,4 +9,5 @@
     <string name="dialog_title">Alert</string>
     <string name="ok">Retour à l\'activité principale</string>
     <string name="cancel">Annuler</string>
+    <string name="start_chat">Démarrer la discussion</string>
 </resources>

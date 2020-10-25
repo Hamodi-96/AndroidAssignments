@@ -12,6 +12,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     protected static final String ACTIVITY_NAME = "MainActivity";
+    Button chatBtn;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -27,6 +28,13 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+    }
+    public void start_chat_click(View v){
+        Log.i(ACTIVITY_NAME, "User clicked Start Chat");
+        Intent intent = new Intent(MainActivity.this,ChatWindow.class);
+        startActivity(intent);
+
+
     }
     protected void onActivityResult(int requestCode, int responseCode, Intent data) {
 

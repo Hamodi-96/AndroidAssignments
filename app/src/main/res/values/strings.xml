@@ -8,5 +8,6 @@
     <string name="dialog_title">Alert</string>
     <string name="ok"> Back to Main Activity</string>
     <string name="cancel">Cancel</string>
+    <string name="start_chat">Start Chat</string>
 
 </resources>
