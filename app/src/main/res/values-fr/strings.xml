@@ -10,4 +10,7 @@
     <string name="ok">Retour à l\'activité principale</string>
     <string name="cancel">Annuler</string>
     <string name="start_chat">Démarrer la discussion</string>
+    <string name="Button2">Barre d\'outils de test</string>
+    <string name="alert">Voulez-vous revenir en arrière?</string>
+    <string name="text">réglage du texte</string>
 </resources>
