@@ -13,5 +13,13 @@
     <string name="Button2">Test ToolBar</string>
     <string name="alert">Do you want to go back?</string>
     <string name="text">setting Text</string>
+    <string name="Weather">Weather Forecast</string>
+    <string-array name="Cities">
+        <item>London</item>
+        <item>Vancouver</item>
+        <item>Toronto</item>
+        <item>Waterloo</item>
+
+    </string-array>
 
 </resources>
