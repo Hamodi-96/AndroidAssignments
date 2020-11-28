@@ -14,4 +14,5 @@
     <string name="alert">Voulez-vous revenir en arrière?</string>
     <string name="text">réglage du texte</string>
     <string name="Weather">Prévisions météorologiques</string>
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
 </resources>
